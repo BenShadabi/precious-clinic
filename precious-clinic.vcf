@@ -1,23 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
-N:;;;;
+N:;Precious Clinic;;;
 FN:Precious Clinic
 ORG:Precious Clinic
 X-ABShowAs:COMPANY
 TITLE:Medical aesthetics
-TEL;TYPE=WORK,VOICE,pref:+1 647-470-4728
-item1.ADR;TYPE=WORK,pref:;Suite 214;7163 Yonge Street;Markham;ON;L3T 0C8;Ca
- nada
-item1.X-ABLabel:Clinic
-item2.URL;type=pref:https://benshadabi.github.io/precious-clinic/
-item2.X-ABLabel:Website
-item3.URL:https://www.vagaro.com/preciousclinic
-item3.X-ABLabel:Book online
-item4.URL:https://www.google.com/maps/search/?api=1&query=Precious+Clinic+7
- 163+Yonge+Street+214+Markham+ON+L3T+0C8
-item4.X-ABLabel:Directions
-NOTE:Nurse Sahar (Fatemeh)\, RPN. Hours: Tuesday to Thursday\, 8 AM to 10 P
- M. Free parking. English and Farsi.
+TEL;TYPE=WORK,VOICE:+16474704728
+ADR;TYPE=WORK:;Suite 214;7163 Yonge Street;Markham;ON;L3T 0C8;Canada
+URL;TYPE=WORK:https://www.vagaro.com/preciousclinic
+NOTE:Book online at vagaro.com/preciousclinic. Nurse Sahar (Fatemeh)\, RPN.
+  Hours: Tuesday to Thursday\, 8 AM to 10 PM. Free parking. English and Far
+ si.
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAYABgAAD/4QCARXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
  AAAABgAAAAAQAAAGAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAASygAwAEAAAAAQAAASwA
